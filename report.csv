@@ -1,0 +1,8 @@
+﻿ip,alerts_total,high_count,medium_count,low_count,vt_status,vt_malicious,vt_suspicious,vt_harmless,vt_undetected,vt_last_analysis_date,vt_error,severity,action
+194.180.191.64,264,67,67,130,ok,4.0,0.0,55.0,35.0,1772923906.0,,medium,alert_and_block_simulated
+4.149.227.78,97,0,0,97,ok,0.0,0.0,57.0,37.0,1772697090.0,,low,log_only
+10.11.26.183,61,0,0,61,,,,,,,,low,log_only
+10.11.26.3,47,0,21,26,,,,,,,,low,log_only
+104.117.247.184,3,0,2,1,ok,0.0,0.0,59.0,35.0,1755894934.0,,medium,log_only
+104.26.1.231,1,0,0,1,ok,1.0,0.0,58.0,35.0,1773252421.0,,low,alert_and_block_simulated
+193.42.38.139,1,0,0,1,ok,0.0,0.0,58.0,36.0,1768464108.0,,low,log_only
